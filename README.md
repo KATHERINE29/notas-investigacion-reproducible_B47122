@@ -1,1 +1,4 @@
-# notas-investigacion-reproducible_B47122
+# Notas sobre investigación reproducible y análisis de datos
+\
+## Reproductibilidad
+\
